@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <link rel="stylesheet" href="./social-media-icons.css">
+    <script src="https://kit.fontawesome.com/66aa7c98b3.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Acme&family=Varela+Round&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- <div class="nav">
+        <input type="checkbox" id="nav-check">
+        <div class="nav-header">
+          <div class="nav-title">
+            JoGeek
+          </div>
+        </div>
+        <div class="nav-btn">
+          <label for="nav-check">
+            <span></span>
+            <span></span>
+            <span></span>
+          </label>
+        </div>
+        
+        <div class="nav-links">
+           <a href="#" target="_blank">Github</a>
+          <a href="#" target="_blank">Stackoverflow</a>
+          <a href="#" target="_blank">Blog</a>
+          <a href="#" target="_blank">Experts</a>
+          <a href="#" target="_blank">More</a>
+        </div>
+      </div> -->
+    <div class="container" >
+        <div class="a">
+            <div class="photo">  </div>
+        </div>
+        <div class="b">
+           <div class="Name">
+            <p>Sharmili Ghosh</p>
+           </div>
+           <div class="Position">
+            <p>Psychologist</p>
+           </div>
+            
+           <div class="discription">
+            <p>I am here to support people to improve their mental wellbeing. I want to make them aware of their potential to grow through the difficult situation of life and to help them cope effectively with it. My Mantra is - Together we can make life easy.</p>
+           </div>
+           <div class="appoit">
+            <button class="button-9" role="button">Chat</button>
+            <button class="button-9" role="button">Appointment</button>
+        </div>
+        </div>
+        <div class="c">
+            <div class="total">
+            <p>Conversations: <span style="font-size: 20px; font-weight: normal;">9076</span><p>
+            </div>
+            <div class="language">
+            <p>Language: <span style="font-size: 20px; font-weight: normal;">English, Hindi, Bengali</span></p>
+            </div>
+            <div class="Available">
+            <p>Available on:</p>
+            <div class="time">
+                <ul>
+                    <li style="font-size: 20px; font-weight: 500;">Monday to Friday :  <span style="font-size: 15px; font-weight: normal;"> 10:00 AM - 5:00 PM</span></li>
+                    <!-- <li> Weekend : kuch time </li> -->
+                    <li style="font-size: 20px; font-weight: 500;">Weekend :  <span style="font-size: 15px; font-weight: normal;"> 10:00 AM - 1:00 PM</span></li>
+                </ul>
+            </div>
+            </div>
+            <div class="profile">
+            <p>Share profile on:</p>
+            <div class="social-menu">
+                <ul>
+                    <li><a href="#" target="blank"><i class="fab fa-whatsapp"></i></i></a></li>
+                    <li><a href="#" target="blank"><i class="fab fa-instagram"></i></a></li>
+                    <li><a href="#" target="blank"><i class="fab fa-linkedin-in"></i></a></li>
+                    <li><a href="#" target="blank"><i class="fab fa-facebook" target="blank"></i></a></li>
+                </ul>
+            </div>
+            </div>
+        </div>
+    </div>
+    <div class="other">
+        <div class="box">
+            <div class="moore1">
+                <div class="summry">
+                    <div class="imagesm">
+                        <img src="summry.png" alt="Error">
+                    </div>
+                    <div class="summryname">
+                        <p > SUMMARY </p> 
+                    </div>
+                </div>
+                <div class="summrymain">
+                    <p >Ms. Sharmili Ghosh is a Psychologist and Counselor with a Master's in Applied Psychology from the prestigious University of Calcutta.</p>
+                <br>
+                    <p >In the past, Sharmili has provided her services as a Psychologist with a renowned Gurugram based mental health firm. She has extensive experience in guiding adult and adolescent clients with a history of anxiety, depression, stress, lack of motivation, parenting issues, concentration issues, relationship conflict etc.</p>
+                <br>
+                    <p >Sharmili is fluent in English, Hindi, and Bengali.</p>
+                </div>
+            </div>
+        <div id="moore">
+            <div class="skill">
+                <div class="imagesk">
+                    <img src="skill.png" alt="Error">
+                    <!-- style="padding-top: 13px; padding-left: 5px; font-size: medium;" -->
+                </div>
+                <div class="skillname">
+                    <p > SKILLS </p> 
+                </div>
+            </div>
+            <div class="skillnms">
+                <div class="skillnms1">
+                <ul>
+                    <li>Substance Use Disorders</li>
+                    <li>Schizophrenia</li>
+                    <li>Trauma, PTSD</li>
+                    <li>Adjustment Disorders</li>
+                    <li>Dissociative Disorders</li>
+                    <li>Somatoform Disorders</li>
+                    
+                </ul>
+                </div>
+                <div class="skillnms2">
+                   <ul>
+                    <li>Work Related Stress</li>
+                    <li>Habit and Impulse Disorders</li>
+                    <li>Interview Prep</li>
+                    <li>Gender Identity Disorders</li>
+                    <li>Work-Life Balanc</li>
+                    <li>Job Loss</li>
+                   </ul>
+                </div>
+                
+            </div>
+            
+            <span id="dots" style="float: right; padding-bottom: 1px; padding-right: 
+            25px;">...</span>
+            <span id="more" >
+                <div class="nms1">
+                <ul>
+                    <li>Substance Use Disorders</li>
+                    <li>Schizophrenia</li>
+                    <li>Trauma, PTSD</li>
+                    <li>Adjustment Disorders</li>
+                    <li>Dissociative Disorders</li>
+                    <li>Somatoform Disorders</li>
+                    
+                </ul>
+                </div>
+                <div class="nms2">
+                   <ul>
+                    <li>Work Related Stress</li>
+                    <li>Habit and Impulse Disorders</li>
+                    <li>Interview Prep</li>
+                    <li>Gender Identity Disorders</li>
+                    <li>Work-Life Balanc</li>
+                    <li>Job Loss</li>
+                   </ul>
+                </div>
+            </span>
+            <div class="bton">
+            <button onclick="myFunction()" id="myBtn">Read more</button>
+            </div>
+        </div>
+        
+        <div class="moore2">
+            <div class="educ">
+                <div class="imageed">
+                    <img src="edu.png" alt="Error">
+                    <!-- style="padding-top: 13px; padding-left: 5px; font-size: medium;" -->
+                </div>
+                <div class="educname">
+                    <p > EDUCATION : <span style="font-size: 18px;">hhsdhis</span></p> 
+                </div>
+            </div>
+        </div>
+        <div class="moore3">
+            <div class="exper">
+                <div class="imageexp">
+                    <img src="expren.png" alt="Error">
+                    <!-- style="padding-top: 13px; padding-left: 5px; font-size: medium;" -->
+                </div>
+                <div class="expername">
+                    <p > EXPERIENCE : </p>
+                    <ul style="padding-left: 10px; font-size: 15px;">
+                        <li> nfaf</li>
+                        <li> nfaf</li>
+                        <li> nfaf</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="experts">
+        <div class="doc1">
+            <div class="docph1">
+         <div class="pho1">
+             
+         </div>
+         <div class="nam1">
+            <p style="font-size: 25px;"> khfueo kbcid</p>
+            <p style="font-size: 19px;"> ijsdjohdufh</p>
+         </div>
+        </div>
+        <div class="doc1bot">
+            <button class="button-9" role="button">Chat</button>
+            <button class="button-9" role="button">Appointment</button>
+        </div>
+        </div>
+        <div class="doc2">
+            <div class="docph1">
+                <div class="pho1">
+                    
+                </div>
+                <div class="nam1">
+                   <p style="font-size: 25px;"> khfueo kbcid</p>
+                   <p style="font-size: 19px;"> ijsdjohdufh</p>
+                </div>
+               </div>
+               <div class="doc1bot">
+                   <button class="button-9" role="button">Chat</button>
+                   <button class="button-9" role="button">Appointment</button>
+               </div>
+        </div>
+        </div>
+    </div>
+    
+    
+</body>
+<script src="index.js"></script>
+</html>
